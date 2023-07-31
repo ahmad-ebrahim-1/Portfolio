@@ -1,0 +1,25 @@
+.social, .section{
+    transition: all .1s ease-in-out ;
+    -webkit-transition: all .1s ease-in-out ;
+    -moz-transition: all .1s ease-in-out ;
+    -ms-transition: all .1s ease-in-out ;
+    -o-transition: all .1s ease-in-out ;
+}
+.social:hover, .section:hover{
+    transform: translateY(-10%) scale(1.1);
+}
+.social-0:hover{
+    color: #fbbc05;
+}
+.social-1:hover{
+    color: #6e5494;
+}
+.social-2:hover{
+    color: #0072b1;
+}
+.social-3:hover{
+    color: #f5f5f5e6;
+}
+.social-4:hover{
+    color: #ef8236;
+}
